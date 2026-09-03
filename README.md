@@ -1,17 +1,17 @@
-# Sandra Oteng Abrokwah — Cloud & Software Engineering Portfolio
+# Sandra Cloud Portfolio
 
-A bold, responsive portfolio website built with HTML, CSS and JavaScript.
-
-## Positioning
-Cloud & Software Engineering • AWS • Infrastructure • Troubleshooting
+A bold, responsive static portfolio website built with HTML, CSS and JavaScript.
 
 ## Deploy on Vercel
-1. Upload these files to the GitHub repository.
-2. Import the repository into Vercel.
-3. Deploy as a static site — no build command is required.
+1. Create a GitHub repository and upload these files.
+2. Go to Vercel and sign in with GitHub.
+3. Click **Add New → Project**.
+4. Import the GitHub repository.
+5. Click **Deploy**.
+
+No build command is required because this is a static HTML/CSS/JavaScript site.
 
 ## Files
-- `index.html`
-- `styles.css`
-- `script.js`
-- `README.md`
+- `index.html` — portfolio content
+- `styles.css` — design and responsiveness
+- `script.js` — mobile navigation and scroll animation
